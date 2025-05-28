@@ -1,4 +1,4 @@
-import Todo from "./components/Todo/Todo.tsx";
+import Todo from "./components/Todo.tsx";
 import './App.css'
 
 function App() {
